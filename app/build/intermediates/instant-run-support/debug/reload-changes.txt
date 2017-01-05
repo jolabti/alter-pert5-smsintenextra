@@ -1,0 +1,11 @@
+CHANGED,/var/www/SMSPulse/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/apps/alter/smspulse/LayarKedua$override.class
+CHANGED,/var/www/SMSPulse/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class
+CHANGED,/var/www/SMSPulse/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/apps/alter/smspulse/R$integer$override.class
+CHANGED,/var/www/SMSPulse/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/apps/alter/smspulse/R$layout$override.class
+CHANGED,/var/www/SMSPulse/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/apps/alter/smspulse/R$id$override.class
+CHANGED,/var/www/SMSPulse/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/apps/alter/smspulse/R$mipmap$override.class
+CHANGED,/var/www/SMSPulse/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/apps/alter/smspulse/R$drawable$override.class
+CHANGED,/var/www/SMSPulse/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/apps/alter/smspulse/R$style$override.class
+CHANGED,/var/www/SMSPulse/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/android/support/v7/appcompat/R$drawable$override.class
+CHANGED,/var/www/SMSPulse/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/apps/alter/smspulse/R$styleable$override.class
+CHANGED,/var/www/SMSPulse/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/apps/alter/smspulse/R$string$override.class

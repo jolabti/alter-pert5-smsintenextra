@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/var/www/SMSPulse/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="09c3ee9c9251e4260eccb99680696fc1c8ecf042">
+        <dex dex="/var/www/SMSPulse/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_96a040f966ef6b6993e76e5cab3a6ed6f68703ee/classes.dex" />
+    </item>
+
+</items>
